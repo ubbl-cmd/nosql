@@ -1,4 +1,4 @@
-# developer.google.com badges Parser
+# developer.google.com badges Parser & mongodb
 
 ## Инструкция по запуску скрипта
 Для выгрузки в csv - [доступна по ссылке](https://github.com/OSLL/lms_grades_export/tree/main/google_export).
